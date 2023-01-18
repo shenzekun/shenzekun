@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 📧 Email: szk726664809@gmail.com
+- 🏠 Home Page: https://shenzekun.cn
+
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=shenzekun&show_icons=true&count_private=false&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
